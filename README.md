@@ -5,5 +5,6 @@ code - \
     print('Current path: ',dirpath)
     print('Directories: ', dirname)
     print('Files: ', filename)
-    print()**
+    print()**\
+output -\
 ![image](https://user-images.githubusercontent.com/85786901/155474428-6dd201b9-f571-4148-be94-f6b0f952365f.png)
