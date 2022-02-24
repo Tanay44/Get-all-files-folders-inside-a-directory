@@ -1,4 +1,4 @@
-# Get-all-files-folders-inside-a-directory
+# Get-all-files-&-folders-inside-a-directory
 Spark SQL
 code - \
 **for dirpath, dirname, filename in os.walk('/dbfs/mnt/readdir/delete') or ('C:/Users/user/Desktop/files'):
